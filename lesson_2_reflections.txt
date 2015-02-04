@@ -4,3 +4,8 @@ What happens when you initialize a repository? Why do you need to do it?
 all the files in the repository will get monitored by git on
 the future. You do it in order to keep track of further changes 
 in your files
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+temporary area, you can pick a bundle of files to make one commit or you can pick just one file to commit, it is like
+a prepping area before sending them in the repository, so you what to do next and how your files are linked together
