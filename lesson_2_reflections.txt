@@ -9,3 +9,16 @@ How is the staging area different from the working directory and the repository?
 
 temporary area, you can pick a bundle of files to make one commit or you can pick just one file to commit, it is like
 a prepping area before sending them in the repository, so you what to do next and how your files are linked together
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+you can use git diff --staged to see how the last commit and the staging area differ
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+when you want to create different versions of the program,
+add and test out some features it would be a good idea to branch. Branches do not interfere with the main source code unless they are merged so they can develop independently.
+
+How do the diagrams help you visualize the branch structure?
+
+get a clear idea of the project structure, where you are , what you want to do and if you want to return to a previous state or create a new one
