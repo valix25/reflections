@@ -22,3 +22,11 @@ add and test out some features it would be a good idea to branch. Branches do no
 How do the diagrams help you visualize the branch structure?
 
 get a clear idea of the project structure, where you are , what you want to do and if you want to return to a previous state or create a new one
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+result is all common pieces of code are in the merged version, plus additions and minus deletions. It is easily understandable to represent the merging the way we do
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+pros: limiting the size of code that needs to be checked, basically similar code from 2 branches are ready to be put into the merging. Code changed on the same part needs to be checked manually to solve the conflicts.
