@@ -10,3 +10,10 @@ maybe you tried to create a new feature and added it to the repo on GitHub,
 but than you don't wanted anymore, with automatic control that feature would 
 have been added(or some commits on that feature development) on the local repo,
 an annoying situation so to say.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+fork = type of cloning, pertaining to GitHub, clones the repository history from a place into your account on GitHub
+clones = can be used to copy a repository's history on the local machine, or from
+a url to the local machine
+branches = separates in order to add a new feature, solve bugs, create a different version from the original etc.
